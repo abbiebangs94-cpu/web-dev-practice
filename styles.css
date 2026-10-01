@@ -12,3 +12,15 @@ p {
     font-size: 18px;
     font-family:'Times New Roman', Times, serif;
 }
+
+.card-container {
+    display: flex;
+    gap: 20px;
+}
+
+.card {
+    background-color: purple;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid white;
+}
